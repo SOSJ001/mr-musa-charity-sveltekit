@@ -14,7 +14,7 @@
         </Thingswedo>
         <Thingswedo>
             <span slot="icon"><Icon.Build class="text-amber-600"/></span>
-            <span slot="description">Build and <br>Create</span>
+            <span slot="description">Build <br>Create</span>
         </Thingswedo>
         <Thingswedo>
             <span slot="icon"><Icon.Fastfood class="text-amber-600"/></span>
