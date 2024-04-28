@@ -5,9 +5,9 @@
     
 </script>
 
-<div class="mt-5 flex w-full items-center justify-between px-10 md:flex-row">
-	<div class=" w-1/2 text-center text-[40px]">We Do It For <br />People In Need</div>
-	<div class="w-1/2 flex flex-row gap-5 justify-center">
+<div class="mt-5 flex w-full items-center justify-between px-10 flex-col md:flex-row">
+	<div class=" md:w-1/2 text-center gap-y-3 md:gap-y-0 text-[25px] md:text-[40px]">We Do It For People In Need</div>
+	<div class="md:w-1/2 flex flex-row gap-5 justify-center">
 		<Thingswedo>
             <span slot="icon"><Icon.Medical_services variation="filled" class="text-amber-600"/></span>
             <span slot="description">Medicine <br> help</span>
