@@ -10,7 +10,7 @@
 		<p class=" text-center hidden md:block font-bold text-amber-600 text-[20px] md:text-[40px]">
 			Helping Each Other Can Make World Better
 		</p>
-        <p class="md:hidden text-center font-bold text-amber-600 text-[20px] md:text-[40px]">
+        <p class="md:hidden text-center font-bold text-amber-600 text-[20px]">
 			Helping Each Other Can Make World Better
 		</p>
 		<p class="text-lg">

@@ -22,4 +22,8 @@
     <!-- wedo below -->
     <Wedo/>
     <!-- wedo ends -->
+
+    <!-- showcase below -->
+    <Showcase/>
+    <!-- showcase ends -->
 </div>
