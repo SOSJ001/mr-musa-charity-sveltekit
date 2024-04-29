@@ -3,6 +3,8 @@
     import Heroimage from "$lib/components/heroimage.svelte";
     import Showcase from "$lib/components/showcase.svelte";
 	import Wedo from "$lib/components/wedo.svelte";
+	import Ourmission from "$lib/components/ourmission.svelte";
+
 
 
 </script>
@@ -23,7 +25,7 @@
     <Wedo/>
     <!-- wedo ends -->
 
-    <!-- showcase below -->
-    <Showcase/>
-    <!-- showcase ends -->
+    <!-- Our Mission below -->
+    <Ourmission/>
+    <!-- Our Mission ends -->
 </div>

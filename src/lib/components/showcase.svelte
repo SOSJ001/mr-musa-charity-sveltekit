@@ -4,7 +4,7 @@
 	export let order: string = 'last';
 </script>
 
-<div class="flex flex-col w-full items-center justify-between gap-5 p-3 text-gray-300 md:flex-row md:px-10 mt-5">
+<div class="flex flex-col w-full items-center justify-between gap-5 p-3 text-gray-300 md:flex-row md:px-10 my-5">
     <!-- text below  -->
 	<div class="w-full md:w-1/2 space-y-3">
 		<p class=" text-center hidden md:block font-bold text-amber-600 text-[20px] md:text-[40px]">
