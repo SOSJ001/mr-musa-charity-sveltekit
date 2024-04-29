@@ -9,7 +9,7 @@
 	<div class="text-center md:w-1/2 text-xl md:text-[30px] font-bold">
 		We Do It For People In Need
 	</div>
-	<div class="grid grid-cols-2 md:flex h-full md:flex-row justify-center gap-5  md:w-1/2">
+	<div class="grid grid-cols-2 md:flex md:flex-row justify-center gap-5  md:w-1/2">
 		<Thingswedo>
 			<span slot="icon"><Icon.Medical_services variation="filled" class="" /></span>
 			<span slot="description">Medicine Help</span>
