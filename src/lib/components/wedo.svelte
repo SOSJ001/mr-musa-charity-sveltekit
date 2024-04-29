@@ -6,7 +6,7 @@
 <div
 	class="flex w-full gap-3 md:gap-0 flex-col items-center justify-between bg-[conic-gradient(at_top_left,_var(--tw-gradient-stops))] from-amber-600 via-transparent to-transparent p-5 px-10 md:flex-row"
 >
-	<div class="text-center md:w-1/2 text-xl md:text-[40px]">
+	<div class="text-center md:w-1/2 text-xl md:text-[30px] font-bold">
 		We Do It For People In Need
 	</div>
 	<div class="grid grid-cols-2 md:flex h-full md:flex-row justify-center gap-5  md:w-1/2">
