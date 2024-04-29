@@ -14,7 +14,7 @@
 
 	<div class="absolute bg-slate-900 bg-opacity-30 md:p-10 h-full w-full flex items-center justify-center">
         <div class="w-[300px] md:w-1/2 flex flex-col items-center justify-center bg-slate-900 p-2 md:p-10 rounded-xl bg-opacity-30">
-            <p class="text-xl">OUR MISSION</p>
+            <p class="text-[40px] m-2">OUR MISSION</p>
 		<p>
 			"Is to nurture hope among African children by engaging them through sports, while also
 			providing essential nourishment, clothing, and medical care to support their well-being and
