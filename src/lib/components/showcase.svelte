@@ -13,7 +13,7 @@
         <p class="md:hidden text-center font-bold text-amber-600 text-[20px]">
 			Helping Each Other Can Make World Better
 		</p>
-		<p class="text-lg">
+		<p class="text-lg text-center ">
 			While we take a moment to appreciate how far we've come, we also look forward to the path
 			ahead. There are still many lives waiting for a beacon of hope, and with your continued
 			support, we can reach even further. Each contribution empowers us to expand our outreach and
