@@ -6,6 +6,9 @@
 	import Ourmission from '$lib/components/ourmission.svelte';
 	import successstory from '$lib/images/against-light-7572922_1280.jpg';
 	import news from '$lib/images/africa-news.jpg';
+	import Gallery from '$lib/components/gallery.svelte';
+
+
 </script>
 
 <div class="h-screen w-screen overflow-x-hidden bg-slate-900 font-serif text-white">
@@ -58,4 +61,8 @@
 		</div>
 	</Showcase>
 	<!-- Our News ends -->
+
+	<!-- Gallery -->
+	<Gallery/>
+	<!-- Gallery -->
 </div>

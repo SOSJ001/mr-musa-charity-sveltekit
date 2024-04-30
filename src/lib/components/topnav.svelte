@@ -43,7 +43,9 @@
 	<div class="hidden space-x-5 md:block">
 		<a class="hover:text-amber-500" href="/">Home</a>
 		<a class="hover:text-amber-500" href="/">About</a>
-		<a class="hover:text-amber-500" href="/">Events</a>
+		<a class="hover:text-amber-500" href="/">News</a>
+		<a class="hover:text-amber-500" href="/">Gallery</a>
+
 	</div>
 	<Drawer
 		class="w-64 border-r border-amber-500 bg-slate-900 text-gray-300"
@@ -64,7 +66,9 @@
 		<div class=" flex flex-col items-center justify-between space-y-5 pt-5 md:hidden">
 			<a class="hover:text-amber-500" href="/">Home</a>
 			<a class="hover:text-amber-500" href="/">About</a>
-			<a class="hover:text-amber-500" href="/">Events</a>
+			<a class="hover:text-amber-500" href="/">News</a>
+			<a class="hover:text-amber-500" href="/">Gallery</a>
+
 		</div>
 	</Drawer>
 </Navbar>
