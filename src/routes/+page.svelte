@@ -2,6 +2,7 @@
 	import Topnav from '$lib/components/topnav.svelte';
 	import Heroimage from '$lib/components/heroimage.svelte';
 	import Showcase from '$lib/components/showcase.svelte';
+	import Showcaseleft from '$lib/components/showcaseleft.svelte';
 	import Wedo from '$lib/components/wedo.svelte';
 	import Ourmission from '$lib/components/ourmission.svelte';
 	import successstory from '$lib/images/against-light-7572922_1280.jpg';
@@ -34,7 +35,7 @@
 	<!-- Our Mission ends -->
 
 	<!-- Our Success Story below -->
-	<Showcase order="first" image={successstory} btn={false}>
+	<Showcaseleft image={successstory} btn={false}>
 		<div slot="title">Our Success Story</div>
 		<div slot="description">
 			"Since our inception, we have seen countless lives transformed through our collective efforts.
@@ -45,7 +46,7 @@
 			every supporter who believed in the cause. Together, we have sown seeds of hope that will
 			bloom for generations to come."
 		</div>
-	</Showcase>
+	</Showcaseleft>
 	<!-- Our Success Story ends -->
 
 	<!-- News  -->
