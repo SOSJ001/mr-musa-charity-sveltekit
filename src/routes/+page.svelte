@@ -7,6 +7,7 @@
 	import successstory from '$lib/images/against-light-7572922_1280.jpg';
 	import news from '$lib/images/africa-news.jpg';
 	import Gallery from '$lib/components/gallery.svelte';
+	import Footer from '$lib/components/footer.svelte';
 
 
 </script>
@@ -65,4 +66,8 @@
 	<!-- Gallery -->
 	<Gallery/>
 	<!-- Gallery -->
+
+	<!-- footer -->
+<Footer/>
+	<!-- footer -->
 </div>
