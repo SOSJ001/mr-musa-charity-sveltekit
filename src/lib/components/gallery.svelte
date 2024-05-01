@@ -29,7 +29,7 @@
 
 <div class="space-y-3 p-3 text-center md:px-10">
 	<div class="text-3xl font-bold text-amber-600">Gallery</div>
-	<Gallery class="grid-cols-2 gap-4 md:grid-cols-4 ">
+	<Gallery class="grid-cols-2 gap-8 md:gap-4 md:grid-cols-4 ">
 		<Gallery items={images1} />
 		<Gallery items={images2} />
 		<Gallery items={images3} />
