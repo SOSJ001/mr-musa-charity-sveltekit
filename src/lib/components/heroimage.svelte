@@ -12,7 +12,8 @@
 	<div
 		class="absolute left-0 top-0 flex h-full w-full flex-col items-start justify-center gap-y-4 bg-gradient-to-r from-slate-900 via-transparent to-transparent  font-mono text-amber-600 p-3 md:p-10"
 	>
-		<div class="flex flex-col md:text-[50px] font-bold">
+	<div class="bg-slate-900 bg-opacity-15 rounded-xl p-3">
+		<div class="flex flex-col text-5xl md:text-[50px] font-bold">
 			<span class="">Helping Special</span>
 			<span class="">Individuals</span>
 		</div>
@@ -41,5 +42,7 @@
 				</p>
 			</div>
 		</div>
+	</div>
+		
 	</div>
 </div>
