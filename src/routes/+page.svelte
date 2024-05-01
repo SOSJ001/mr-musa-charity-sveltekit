@@ -63,6 +63,6 @@
 	<!-- Our News ends -->
 
 	<!-- Gallery -->
-	<!-- <Gallery/> -->
+	<Gallery/>
 	<!-- Gallery -->
 </div>
