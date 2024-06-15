@@ -4,7 +4,7 @@
 
 <Footer class="bg-slate-900 border-t-2 border-amber-600 rounded-none " footerType="logo">
   <div class="sm:flex sm:items-center sm:justify-between">
-    <FooterBrand href="/" src="" alt="Logo" name="Logo" />
+    <FooterBrand href="/" src="" alt="MUSAC Logo" name="Logo" />
     <FooterLinkGroup ulClass="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
       <FooterLink href="/">About</FooterLink>
       <FooterLink href="/">Privacy Policy</FooterLink>

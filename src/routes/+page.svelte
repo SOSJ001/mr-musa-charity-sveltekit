@@ -9,8 +9,6 @@
 	import news from '$lib/images/africa-news.jpg';
 	import Gallery from '$lib/components/gallery.svelte';
 	import Footer from '$lib/components/footer.svelte';
-
-
 </script>
 
 <div class="h-screen w-screen overflow-x-hidden bg-slate-900 font-serif text-white">
@@ -34,41 +32,47 @@
 	<Ourmission />
 	<!-- Our Mission ends -->
 
-	<!-- Our Success Story below -->
+	<!-- Commitment -->
 	<Showcaseleft image={successstory} btn={false}>
-		<div slot="title">Our Success Story</div>
+		<div slot="title">Commitment</div>
 		<div slot="description">
-			"Since our inception, we have seen countless lives transformed through our collective efforts.
-			In the heart of Africa, we've ignited a spark of change one child, one game, one meal at a
-			time. Our sports programs have cultivated discipline and joy, nourishing both the body and
-			spirit of the young athletes. Beyond the field, our initiative has clothed, fed, and healed,
-			extending a lifeline to those in dire need. These victories aren't just ours, they belong to
-			every supporter who believed in the cause. Together, we have sown seeds of hope that will
-			bloom for generations to come."
+			"MUSAC, we are steadfastly committed to improving the lives of African children by addressing
+			their health needs, nurturing their educational journey, and offering compassionate care. Our
+			unwavering dedication drives us to uphold the highest standards of service delivery, fostering
+			a nurturing environment where every child can thrive."
 		</div>
 	</Showcaseleft>
-	<!-- Our Success Story ends -->
+	<!-- Commitment -->
 
-	<!-- News  -->
+	<!-- Vision  -->
 	<Showcase image={news} btn={false}>
-		<div slot="title">News And Resources</div>
+		<div slot="title">Vision</div>
 		<div slot="description">
-			A group of resilient children gather, their faces telling stories
-			of survival and hope. Despite the challenging circumstances they face daily, their spirits
-			remain unbroken. Through local initiatives, these young souls are not only finding solace in
-			sports and community activities but are also receiving essential support such as food,
-			clothing, and medical care. These interventions aim to provide these children with the tools
-			they need to build a promising future, proving that even in the toughest conditions, hope can
-			thrive.
+			Our vision at MUSAC is to grow, nurture, and contribute meaningfully to society by empowering
+			African children with the resources, support, and opportunities they need to succeed. Through
+			our efforts, we envision a future where every child in Africa has access to quality
+			healthcare, education, and a nurturing environment, enabling them to reach their full
+			potential.
 		</div>
 	</Showcase>
-	<!-- Our News ends -->
+	<!-- Vision ends -->
+
+	<!-- Specialization -->
+	<Showcaseleft image={successstory} btn={false}>
+		<div slot="title">Specialization</div>
+		<div slot="description">
+			We specialize in addressing crucial aspects of child health, including ear, eye, and childhood
+			diseases. By focusing on these areas, we aim to alleviate suffering, improve quality of life,
+			and ensure a brighter future for the children we serve.
+		</div>
+	</Showcaseleft>
+	<!-- Specialization ends -->
 
 	<!-- Gallery -->
-	<Gallery/>
+	<Gallery />
 	<!-- Gallery -->
 
 	<!-- footer -->
-<Footer/>
+	<Footer />
 	<!-- footer -->
 </div>

@@ -32,7 +32,7 @@
 			<Button
 				btnstyle="rounded-lg border border-amber-600 p-2 font-bold hover:border-gray-300 hover:text-amber-500"
 			>
-				Our Story
+				Our Vision
 			</Button>
 		</div>
 		{/if}

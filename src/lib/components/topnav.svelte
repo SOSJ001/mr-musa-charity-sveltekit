@@ -13,7 +13,7 @@
 
 <Navbar class=" border-b-2 border-amber-600 bg-slate-900 text-white">
 	<NavBrand href="/">
-		<img src="" class="me-3 h-6 sm:h-9" alt="Logo" />
+		<img src="" class="me-3 h-6 sm:h-9" alt="MUSAC Logo" />
 		<span class="self-center whitespace-nowrap text-xl font-semibold">logo</span>
 	</NavBrand>
 	<div class="flex md:order-2">
