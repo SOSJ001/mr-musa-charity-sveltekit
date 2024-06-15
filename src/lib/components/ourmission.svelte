@@ -10,7 +10,9 @@
 		<div class=" w-full">
 			<img src={img} alt="mission" class="hidden rounded-xl md:block md:h-[500px]" />
 		</div>
-		<div class=" w-full"><img src={img2} alt="mission" class="rounded-xl md:hidden" /></div>
+		<div class=" w-full">
+			<img src={img2} alt="mission" class="h-[380px] rounded-xl md:hidden" />
+		</div>
 	</div>
 
 	<div
